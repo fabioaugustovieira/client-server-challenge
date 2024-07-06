@@ -20,6 +20,7 @@ CREATE TABLE cotacao (
 );
 
 INSERT INTO cotacao (bid) VALUES (0);
+inserir na Tabela cotacao
 ```
 
 **Tabela cotacao inicialmente:**
